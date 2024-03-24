@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Pelican Server",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "pelican",
+            "args": [
+                "--autoreload",
+                "--listen"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}

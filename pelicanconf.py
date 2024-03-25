@@ -45,4 +45,6 @@ PHOTO_RESIZE_JOBS = 0
 PHOTO_WATERMARK = True
 PHOTO_WATERMARK_TEXT = SITENAME
 
-THEME = "notmyidea"
+THEME = "theme"
+
+INDEX_SAVE_AS = 'empty.html'
